@@ -11,8 +11,8 @@
   </author>
   <entry>
     <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/2012/01/01/example-article.html"/>
-    <id>http://blog.url.com/2012/01/01/example-article.html</id>
+    <link rel="alternate" href="http://blog.url.com/example-article.html"/>
+    <id>http://blog.url.com/example-article.html</id>
     <published>2012-01-01T09:00:00+09:00</published>
     <updated>2017-08-17T22:40:19+09:00</updated>
     <author>
