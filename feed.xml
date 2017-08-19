@@ -5,16 +5,16 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2012-01-01T09:00:00+09:00</updated>
+  <updated>2017-08-19T09:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
-    <title>Example Article</title>
-    <link rel="alternate" href="http://blog.url.com/example-article.html"/>
-    <id>http://blog.url.com/example-article.html</id>
-    <published>2012-01-01T09:00:00+09:00</published>
-    <updated>2017-08-17T22:40:19+09:00</updated>
+    <title>Session metrics</title>
+    <link rel="alternate" href="http://blog.url.com/metrics/session-metrics.html"/>
+    <id>http://blog.url.com/metrics/session-metrics.html</id>
+    <published>2017-08-19T09:00:00+09:00</published>
+    <updated>2017-08-19T13:18:59+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
