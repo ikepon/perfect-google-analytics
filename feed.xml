@@ -14,11 +14,16 @@
     <link rel="alternate" href="http://blog.url.com/metrics/session-metrics.html"/>
     <id>http://blog.url.com/metrics/session-metrics.html</id>
     <published>2017-08-19T09:00:00+09:00</published>
-    <updated>2017-08-19T21:22:30+09:00</updated>
+    <updated>2017-08-19T23:06:38+09:00</updated>
     <author>
       <name>Article Author</name>
     </author>
     <content type="html">&lt;h1 id="section"&gt;セッション(訪問回数)&lt;/h1&gt;
+&lt;div class="article-date"&gt;
+  &lt;i class="fa fa-pencil"&gt;&lt;/i&gt;2017/08/19
+
+&lt;/div&gt;
+
 &lt;p&gt;ユーザーがサイトに訪問した回数を表しています。&lt;/p&gt;
 
 &lt;p&gt;同じユーザーでも、ページ間の遷移が一定時間を越えて訪問した場合は別セッションとみなされます。&lt;/p&gt;
