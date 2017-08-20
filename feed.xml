@@ -5,15 +5,15 @@
   <id>http://blog.url.com/</id>
   <link href="http://blog.url.com/"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2017-08-19T09:00:00+09:00</updated>
+  <updated>2017-08-19T00:00:00+09:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
   <entry>
     <title>Session metrics</title>
-    <link rel="alternate" href="http://blog.url.com/metrics/session-metrics.html"/>
-    <id>http://blog.url.com/metrics/session-metrics.html</id>
-    <published>2017-08-19T09:00:00+09:00</published>
+    <link rel="alternate" href="http://blog.url.com/metrics/session-metrics"/>
+    <id>http://blog.url.com/metrics/session-metrics</id>
+    <published>2017-08-19T00:00:00+09:00</published>
     <updated>2017-08-20T00:44:22+09:00</updated>
     <author>
       <name>Article Author</name>
