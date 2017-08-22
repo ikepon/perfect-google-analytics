@@ -5,10 +5,37 @@
   <id>https://perfect-google-analytics.growth-support.net/</id>
   <link href="https://perfect-google-analytics.growth-support.net/"/>
   <link href="https://perfect-google-analytics.growth-support.net/feed.xml" rel="self"/>
-  <updated>2017-08-19T00:00:00+09:00</updated>
+  <updated>2017-08-22T00:00:00+09:00</updated>
   <author>
     <name>Tatsuya Ikeda</name>
   </author>
+  <entry>
+    <title>Pageview metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/pageview-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/metrics/pageview-metrics/</id>
+    <published>2017-08-22T00:00:00+09:00</published>
+    <updated>2017-08-22T16:36:04+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">
+&lt;h1 id="pv"&gt;ページビュー(PV数)&lt;/h1&gt;
+&lt;div class="article-date"&gt;
+  &lt;i class="fa fa-pencil"&gt;&lt;/i&gt;2017/08/22
+
+&lt;/div&gt;
+
+&lt;p&gt;サイト内のページが表示された回数を表しています。&lt;/p&gt;
+
+&lt;p&gt;例えば、2ユーザーがいて、一人が3ページ、もう一人が5ページ見た場合&lt;br class="md-hidden" /&gt;足し合わせた8ページビューがカウントされます。&lt;/p&gt;
+
+&lt;p&gt;また、1ユーザーが【 Aページ → Bページ →　Aページ 】と&lt;br class="md-hidden" /&gt;同じページを複数回表示した場合、&lt;br class="md-hidden" /&gt;Aページ : 2ページビュー、Bページ : 1ページビューとカウントされます。&lt;/p&gt;
+
+&lt;p&gt;これはページをリロードした場合も同様で、&lt;br class="md-hidden" /&gt;リロードすると同じページのページビュー数が +1 されます。&lt;/p&gt;
+
+&lt;p&gt;Ajax などを使ってページを表示している場合、カウントされないことがありますので、&lt;br class="md-hidden" /&gt;表示回数をカウントしたい場合は確認の上、カウントできていない場合は設定が必要となります。&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Session metrics</title>
     <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/session-metrics/"/>
