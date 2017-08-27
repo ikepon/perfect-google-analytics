@@ -5,10 +5,21 @@
   <id>https://perfect-google-analytics.growth-support.net/</id>
   <link href="https://perfect-google-analytics.growth-support.net/"/>
   <link href="https://perfect-google-analytics.growth-support.net/feed.xml" rel="self"/>
-  <updated>2017-08-25T00:00:00+09:00</updated>
+  <updated>2017-08-26T00:00:00+09:00</updated>
   <author>
     <name>Tatsuya Ikeda</name>
   </author>
+  <entry>
+    <title>Page per session metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/page-per-session-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/metrics/page-per-session-metrics/</id>
+    <published>2017-08-26T00:00:00+09:00</published>
+    <updated>2017-08-27T12:28:24+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;ページ/セッション&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-26"&gt;作成日: 2017/08/26&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;1セッション(1回のサイト訪問)あたりの閲覧ページ数を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;例えば、サイト訪問時に3ページ見た場合は、3ページ/セッションがカウントされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;この数値はサイト内をどのくらい見ているかを知るために指標で、サイトへの関心がどのくらいなのかを見る大事な指標となります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ブログであれば関連記事を表示する、ネットショップであれば関連商品や他のオススメやセール商品などを表示することでサイトを知ってもらい、改善することができます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;内容が1ページで完結するコンテンツが多いサイトでは少なくなる傾向があり、また、サイト構造やリンクテキストが分かりにくいといった要因によりユーザーが迷い数値が高い場合もあります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;サイトの性質や構造などを見極めつつ、現状の数値をどう改善していくのかという施策を立てていくことが大事になります。&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>User metrics</title>
     <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/user-metrics/"/>
