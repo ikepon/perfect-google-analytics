@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://perfect-google-analytics.growth-support.net/about/</loc>
+    <lastmod>2017-08-27T14:12:48+09:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://perfect-google-analytics.growth-support.net/terms/session-metrics/</loc>
     <lastmod>2017-08-27T12:35:24+09:00</lastmod>
     <changefreq>weekly</changefreq>
