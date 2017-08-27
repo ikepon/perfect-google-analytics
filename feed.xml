@@ -11,10 +11,10 @@
   </author>
   <entry>
     <title>Page per session metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/page-per-session-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/metrics/page-per-session-metrics/</id>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/page-per-session-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/page-per-session-metrics/</id>
     <published>2017-08-26T00:00:00+09:00</published>
-    <updated>2017-08-27T12:28:24+09:00</updated>
+    <updated>2017-08-27T12:37:33+09:00</updated>
     <author>
       <name>Tatsuya Ikeda</name>
     </author>
@@ -22,10 +22,10 @@
   </entry>
   <entry>
     <title>User metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/user-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/metrics/user-metrics/</id>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/user-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/user-metrics/</id>
     <published>2017-08-25T00:00:00+09:00</published>
-    <updated>2017-08-26T11:02:01+09:00</updated>
+    <updated>2017-08-27T12:37:40+09:00</updated>
     <author>
       <name>Tatsuya Ikeda</name>
     </author>
@@ -33,10 +33,10 @@
   </entry>
   <entry>
     <title>Pageview metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/pageview-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/metrics/pageview-metrics/</id>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/pageview-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/pageview-metrics/</id>
     <published>2017-08-22T00:00:00+09:00</published>
-    <updated>2017-08-23T18:01:51+09:00</updated>
+    <updated>2017-08-27T12:37:26+09:00</updated>
     <author>
       <name>Tatsuya Ikeda</name>
     </author>
@@ -44,13 +44,13 @@
   </entry>
   <entry>
     <title>Session metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/metrics/session-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/metrics/session-metrics/</id>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/session-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/session-metrics/</id>
     <published>2017-08-19T00:00:00+09:00</published>
-    <updated>2017-08-23T18:23:21+09:00</updated>
+    <updated>2017-08-27T12:35:24+09:00</updated>
     <author>
       <name>Tatsuya Ikeda</name>
     </author>
-    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;セッション(訪問回数)&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-19"&gt;作成日: 2017/08/19&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;ユーザーがサイトに訪問した回数を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;同じユーザーでも、ページ間の遷移が一定時間を越えて訪問した場合は別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクスでは30分以上時間が開くと別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;これはGoogle アナリティクスの管理画面のプロパティに表示される【トラッキング情報】→【セッション設定】をクリックすることで確認できます。&lt;/p&gt;&lt;amp-img alt="セッション設定画面の画像" height="456" layout="responsive" src="/images/admin-session.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;&lt;p class="mt3 mb3 px3"&gt;以下の画面の【セッションのタイムアウト】部分がその設定になります。&lt;/p&gt;&lt;amp-img alt="セッションタイムアウト設定画面の画像" height="331" layout="responsive" src="/images/session-timeout.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;</content>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;セッション(訪問回数)&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-19"&gt;作成日: 2017/08/19&lt;/time&gt;　　&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-27"&gt;更新日: 2017/08/27&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;ユーザーがサイトに訪問した回数を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;同じユーザーでも、ページ間の遷移が一定時間を越えて訪問した場合は別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクスでは30分以上時間が開くと別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;これはGoogle アナリティクスの管理画面のプロパティに表示される【トラッキング情報】→【セッション設定】をクリックすることで確認できます。&lt;/p&gt;&lt;amp-img alt="セッション設定画面の画像" height="456" layout="responsive" src="/images/admin-session.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;&lt;p class="mt3 mb3 px3"&gt;以下の画面の【セッションのタイムアウト】部分がその設定になります。&lt;/p&gt;&lt;amp-img alt="セッションタイムアウト設定画面の画像" height="331" layout="responsive" src="/images/session-timeout.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;</content>
   </entry>
 </feed>

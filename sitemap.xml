@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/metrics/session-metrics/</loc>
-    <lastmod>2017-08-23T18:23:21+09:00</lastmod>
+    <loc>https://perfect-google-analytics.growth-support.net/terms/session-metrics/</loc>
+    <lastmod>2017-08-27T12:35:24+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/metrics/pageview-metrics/</loc>
-    <lastmod>2017-08-23T18:01:51+09:00</lastmod>
+    <loc>https://perfect-google-analytics.growth-support.net/terms/pageview-metrics/</loc>
+    <lastmod>2017-08-27T12:37:26+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/metrics/user-metrics/</loc>
-    <lastmod>2017-08-26T11:02:01+09:00</lastmod>
+    <loc>https://perfect-google-analytics.growth-support.net/terms/user-metrics/</loc>
+    <lastmod>2017-08-27T12:37:40+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/metrics/page-per-session-metrics/</loc>
-    <lastmod>2017-08-27T12:28:24+09:00</lastmod>
+    <loc>https://perfect-google-analytics.growth-support.net/terms/page-per-session-metrics/</loc>
+    <lastmod>2017-08-27T12:37:33+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://perfect-google-analytics.growth-support.net/</loc>
-    <lastmod>2017-08-24T06:40:32+09:00</lastmod>
+    <lastmod>2017-08-27T12:36:54+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/tags/metrics/</loc>
+    <loc>https://perfect-google-analytics.growth-support.net/tags/terms/</loc>
     <lastmod>2017-08-20T16:37:22+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -73,7 +73,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://perfect-google-analytics.growth-support.net/metrics/</loc>
+    <loc>https://perfect-google-analytics.growth-support.net/terms/</loc>
     <lastmod>2017-08-23T18:11:50+09:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
