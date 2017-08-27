@@ -5,10 +5,21 @@
   <id>https://perfect-google-analytics.growth-support.net/</id>
   <link href="https://perfect-google-analytics.growth-support.net/"/>
   <link href="https://perfect-google-analytics.growth-support.net/feed.xml" rel="self"/>
-  <updated>2017-08-26T00:00:00+09:00</updated>
+  <updated>2017-08-27T00:00:00+09:00</updated>
   <author>
     <name>Tatsuya Ikeda</name>
   </author>
+  <entry>
+    <title>Average time per session metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/average-time-per-session-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/average-time-per-session-metrics/</id>
+    <published>2017-08-27T00:00:00+09:00</published>
+    <updated>2017-08-27T13:22:05+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;平均セッション時間&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-27"&gt;作成日: 2017/08/27&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;1セッション(1回のサイト訪問)あたりにサイトに滞在した時間の平均値を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;例えば、2ユーザーがいて、一人が3分、もう一人が5分サイトに滞在した場合、足し合わせて平均をとった4分がカウントされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;この数値はサイト内にどのくらい滞在したかを知るために指標で、サイトへの関心が高いほど滞在した時間は長くなる傾向があるため大事にしたい指標です。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ただし、サイトによっては短くなる傾向もあり、自サイトのコンテンツ内容を確認し、読み込んでもらうサイトなのか、ざっと見てもらうサイトなのかなど、それぞれのサイト内容に合わせて確認してみてください。&lt;/p&gt;&lt;p class="mb3 px3"&gt;また、似た指標として「平均ページ滞在時間」があります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;これは、各ページにどのくらい滞在したかを見る指標で、コンテンツ内容に合わせて時間が変わってきます。時間の長短に合わせてコンテンツを確認し、適度な時間であるかを見る必要があります。&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Page per session metrics</title>
     <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/page-per-session-metrics/"/>
