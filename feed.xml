@@ -5,10 +5,21 @@
   <id>https://perfect-google-analytics.growth-support.net/</id>
   <link href="https://perfect-google-analytics.growth-support.net/"/>
   <link href="https://perfect-google-analytics.growth-support.net/feed.xml" rel="self"/>
-  <updated>2017-08-27T00:00:00+09:00</updated>
+  <updated>2017-09-01T00:00:00+09:00</updated>
   <author>
     <name>Tatsuya Ikeda</name>
   </author>
+  <entry>
+    <title>Average page duration metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/average-page-duration-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/average-page-duration-metrics/</id>
+    <published>2017-09-01T00:00:00+09:00</published>
+    <updated>2017-09-01T15:08:21+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;平均ページ滞在時間&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-09-01"&gt;作成日: 2017/09/01&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;サイト内の特定ページに滞在した時間の平均値です。各ページごとに計算された指標となり、そのページにどのくらい滞在していたかが分かります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクスの「滞在時間」で大切なことは、最後に訪問したページの滞在時間の処理です。&lt;/p&gt;&lt;p class="mb3 px3"&gt;仕組み上、最後に訪問したページ滞在時間を計測できないため、Google アナリティクスは最後のページを集計対象から外して計算します。&lt;/p&gt;&lt;p class="mb3 px3"&gt;滞在時間として、「平均セッション時間」の場合はセッションごとの時間となるため、直帰したセッション(直帰したページ=最後に訪問したページ)も含み計算するので注意が必要です。&lt;/p&gt;&lt;p class="mb3 px3"&gt;指標の見方として、長い・短いといった単純な時間によっての評価ではなく、そのページの内容を確認し、しっかりと読むコンテンツであれば長い方がいいと言えますし、記事カテゴリー一覧などはその先にあるページへのナビゲーションページになるので短い方が迷わず移動していていいといえます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;そのため、それぞれのページに合わせて滞在時間が適切かどうかを見て判断する必要があります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクスでは、「行動」→「サイト コンテンツ」→「すべてのページ」で見ることができ、それぞれのページごとの値を確認してください。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクス内の各レポートで「平均ページ滞在時間」の場合と「平均セッション時間」の場合があるので注意して見るようにしましょう。&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Average time per session metrics</title>
     <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/average-time-per-session-metrics/"/>
