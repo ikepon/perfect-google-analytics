@@ -5,10 +5,32 @@
   <id>https://perfect-google-analytics.growth-support.net/</id>
   <link href="https://perfect-google-analytics.growth-support.net/"/>
   <link href="https://perfect-google-analytics.growth-support.net/feed.xml" rel="self"/>
-  <updated>2017-09-01T00:00:00+09:00</updated>
+  <updated>2017-10-05T00:00:00+09:00</updated>
   <author>
     <name>Tatsuya Ikeda</name>
   </author>
+  <entry>
+    <title>exit rate metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/exit-rate-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/exit-rate-metrics/</id>
+    <published>2017-10-05T00:00:00+09:00</published>
+    <updated>2017-10-06T00:39:05+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;離脱率&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-10-05"&gt;作成日: 2017/10/05&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;離脱率とは、ページビューのうち離脱した数の割合を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;「離脱率」といっても2種類あり、「サイト全体の離脱率」と「ページごとの離脱率」があります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;「サイト全体の離脱率」は、サイトの全ページビューのうち離脱した割合を表すもので、Google アナリティクスの「行動」→「概要」画面など全体のサマリーレポートのような箇所に表示する「離脱率」がこれにあたります&lt;/p&gt;&lt;p class="mb3 px3"&gt;「ページごとの離脱率」は、ページごとに計算されるもので、そのページのページビュー数のうち、そのページで離脱した回数の割合を表すもので、Google アナリティクスの「行動」→「サイト コンテンツ」→「すべてのページ」の各ページごとに表示される「離脱率」がこれにあたります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;離脱率が高いページとは、ユーザーが一番最後に訪れたページということになります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ユーザーはそのページの内容で満足して離脱した可能性もありますが、お問い合わせ完了ページのようにそこで離脱して満足した場合もあります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;そのため、離脱率が高いと言っても実際にページを確認して離脱しても良いページかどうかを確認するようにしましょう。&lt;/p&gt;&lt;p class="mb3 px3"&gt;また、離脱率が低い場合は、そのページから次ページへの遷移を確認しユーザーがどういった情報を求めているかを把握することで、新しく作るコンテンツのヒントにしたり関心がありそうなページへのリンク追加などを行い滞在時間の改善に役立てましょう。&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <title>bounce rate metrics</title>
+    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/bounce-rate-metrics/"/>
+    <id>https://perfect-google-analytics.growth-support.net/terms/bounce-rate-metrics/</id>
+    <published>2017-09-02T00:00:00+09:00</published>
+    <updated>2017-09-01T16:14:28+09:00</updated>
+    <author>
+      <name>Tatsuya Ikeda</name>
+    </author>
+    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;直帰率&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-09-02"&gt;作成日: 2017/09/02&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;サイト内の1ページだけ閲覧したセッションの割合を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;「直帰率」といっても2種類あり、「サイト全体の直帰率」と「ページごとの直帰率」があります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;「サイト全体の直帰率」は、サイトに訪問した全セッションのうち直帰したセッションの割合を表すもので、Google アナリティクスの「ホーム」画面など全体のサマリーレポートのような箇所に表示する「直帰率」はこれにあたります&lt;/p&gt;&lt;p class="mb3 px3"&gt;「ページごとの直帰率」は、最初にそのページに訪問したセッションのうち直帰したセッションの割合を表すもので、Google アナリティクスの「行動」→「サイト コンテンツ」→「すべてのページ」の各ページごとに表示される「直帰率」がこれにあたります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ユーザーが一番最初に訪れたページをランディングページといいますが、このランディングページにおける直帰率はとても大切な指標になります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ブログなどの1ページ完結のコンテンツなどは直帰率が高くなる傾向にあります。トップページなどのそこから他のページへの遷移が考えられるページは低くなる傾向があります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;直帰率が高い場合、そのページに訪問したユーザーが興味を持ちそうな別コンテンツをおすすめするなどし直帰率を下げ、サイト名やサービスの認知やイメージ向上につなげることができます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;また、デバイスごとで直帰率を見ることも大切です。&lt;/p&gt;&lt;p class="mb3 px3"&gt;最近はスマートフォンからの閲覧が増えており、デバイスごとに読みやすい表示になっているか、表示に時間がかかっていないかなどユーザー目線で最適化する必要があります。&lt;/p&gt;</content>
+  </entry>
   <entry>
     <title>Average page duration metrics</title>
     <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/average-page-duration-metrics/"/>
@@ -52,27 +74,5 @@
       <name>Tatsuya Ikeda</name>
     </author>
     <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;ユーザー数&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-25"&gt;作成日: 2017/08/25&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;集計期間において、サイトに訪れたユーザーの数です。&lt;/p&gt;&lt;p class="mb3 px3"&gt;期間中に1人のユーザーが何度サイトを訪れてもユーザーの重複は排除され、カウントは1となります。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ユーザーはブラウザごとに分けられ、例えば同じPCであっても別のブラウザを使うと別のユーザーとしてカウントされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;ユーザーの識別は各ユーザーに関連付けられた固有の ID を関連付けることによって行われています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;このIDは _ga という名前の単一のファーストパーティ Cookieと、ID と組み合わせて使用する User ID 機能があります。User ID 機能の場合は、ユーザーがサイトやアプリにアクセスする際にさまざまな端末を使用していても正確にユーザーを識別できます。&lt;br /&gt;(User ID を使う場合には別途設定が必要で、ログインなどユーザーを識別できる機能の ID 情報を使うことが一般的です。)&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Pageview metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/pageview-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/terms/pageview-metrics/</id>
-    <published>2017-08-22T00:00:00+09:00</published>
-    <updated>2017-08-27T12:37:26+09:00</updated>
-    <author>
-      <name>Tatsuya Ikeda</name>
-    </author>
-    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;ページビュー(PV数)&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-22"&gt;作成日: 2017/08/22&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;サイト内のページが表示された回数を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;例えば、2ユーザーがいて、一人が3ページ、もう一人が5ページ見た場合、足し合わせた8ページビューがカウントされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;また、1ユーザーが【 Aページ → Bページ →　Aページ 】と同じページを複数回表示した場合、Aページ : 2ページビュー、Bページ : 1ページビューとカウントされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;これはページをリロードした場合も同様で、リロードすると同じページのページビュー数が +1 されます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Ajax などを使ってページを表示している場合、カウントされないことがありますので、表示回数をカウントしたい場合は確認の上、カウントできていない場合は設定が必要となります。&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <title>Session metrics</title>
-    <link rel="alternate" href="https://perfect-google-analytics.growth-support.net/terms/session-metrics/"/>
-    <id>https://perfect-google-analytics.growth-support.net/terms/session-metrics/</id>
-    <published>2017-08-19T00:00:00+09:00</published>
-    <updated>2017-08-27T12:35:24+09:00</updated>
-    <author>
-      <name>Tatsuya Ikeda</name>
-    </author>
-    <content type="html">&lt;header&gt;&lt;h1 class="pt4 mb3 px3"&gt;&lt;span class="brand-color"&gt;セッション(訪問回数)&lt;/span&gt;&lt;/h1&gt;&lt;/header&gt;&lt;address class="ampstart-byline clearfix mb4 px3 h5"&gt;&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-19"&gt;作成日: 2017/08/19&lt;/time&gt;　　&lt;time class="ampstart-byline-pubdate bold my1" datetime="2017-08-27"&gt;更新日: 2017/08/27&lt;/time&gt;&lt;/address&gt;&lt;p class="mb3 px3"&gt;ユーザーがサイトに訪問した回数を表しています。&lt;/p&gt;&lt;p class="mb3 px3"&gt;同じユーザーでも、ページ間の遷移が一定時間を越えて訪問した場合は別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;Google アナリティクスでは30分以上時間が開くと別セッションとみなされます。&lt;/p&gt;&lt;p class="mb3 px3"&gt;これはGoogle アナリティクスの管理画面のプロパティに表示される【トラッキング情報】→【セッション設定】をクリックすることで確認できます。&lt;/p&gt;&lt;amp-img alt="セッション設定画面の画像" height="456" layout="responsive" src="/images/admin-session.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;&lt;p class="mt3 mb3 px3"&gt;以下の画面の【セッションのタイムアウト】部分がその設定になります。&lt;/p&gt;&lt;amp-img alt="セッションタイムアウト設定画面の画像" height="331" layout="responsive" src="/images/session-timeout.png" style="border: 1px solid #ccc;" width="698"&gt;&lt;/amp-img&gt;</content>
   </entry>
 </feed>
